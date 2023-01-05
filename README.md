@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I'm an Information System and Technology student in Bandung Insitute of Technology<br>
-- 🤔 I love to learn new things and have really high passion in programming
+- 🤔 I love to learn new things and have a really high passion in programming
 - 🏠 I'm based in Bandung<br>
 - 📫 You can contact me at syahrialalzaidan@gmail.com<br>
 
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syahrialalzaidan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
