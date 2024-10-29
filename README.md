@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm an Information System and Technology student in Bandung Insitute of Technology<br>💼 I’m currently working on Software Engineering<br>🤔 I love to learn new things and have a really high passion in programming<br>📕 Updated CV : https://drive.google.com/file/d/1XLGrnmoKLUlTQWS12oeBiOSRnsMRVk6h/view
+🔭 I'm an Information System and Technology student in Bandung Insitute of Technology<br>💼 I’m currently working on Software Engineering<br>🤔 I love to learn new things and have a really high passion in programming
 
 
 ## 🌐 Socials:
